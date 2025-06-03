@@ -16,7 +16,7 @@ export default function Sidebar({
         </button>
       )}
       <h2 className="mb-8 font-bold uppercase md:text-xl text-stone-200">
-        Your Wonderful Projects
+        Your Wonderful Projects!!!
       </h2>
       <div>
         <NewProjectBtn onClick={onAddProject}>+ Add Project</NewProjectBtn>
